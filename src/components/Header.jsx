@@ -33,7 +33,7 @@ const Header = () =>{
                 <li className="cursor-pointer">PROJECTS</li>
                 <li className="cursor-pointer">CONTACT</li>
             </ul>
-            <a href="./resume.pdf"
+            <a href="./sanjana_resume.pdf"
             className="flex items-center gap-2 px-5 py-2 border border-pink-500  rounded-md  text-white hover:bg-gradient-to-r hover:from-purple-500 hover:to-pink-500 transition-colors duration-300">
                 RESUME 
                 <FontAwesomeIcon icon={faDownload} style={{ color: "#f5f5f5" }} />
