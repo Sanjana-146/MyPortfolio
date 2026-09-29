@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@theme {
+  --color-primary: #9b5cff;
+  --color-secondary: #ff4fd8;
+  --color-text-main: #e5e5e5;
+  --color-text-muted: #9ca3af;
+  --color-bg-dark: #000000;
+  --color-bg-card: #0d0d0d;
+  --color-purple-glow: #b47aff;
+
+  --shadow-glow: 0 0 20px #772ce8aa;
+
+  --gradient-primary: linear-gradient(to right, #9b5cff, #ff4fd8);
+}
